@@ -1,0 +1,335 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsDetail" isnull="true" iskey="true">
+    <property name="DetailMode">Default</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="Columns" iskey="true" value="41">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colSCD</property>
+      <property name="FieldName">SCD</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">colMaDonHang</property>
+      <property name="FieldName">MaDonHang</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">colPhienBan</property>
+      <property name="FieldName">PhienBan</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colNgayXuongDon</property>
+      <property name="FieldName">NgayXuongDon</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">colNgayGiaoHang</property>
+      <property name="FieldName">NgayGiaoHang</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">colSoLuong</property>
+      <property name="FieldName">SoLuong</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">colLoaiSanPham</property>
+      <property name="FieldName">LoaiSanPham</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">colVatLieu</property>
+      <property name="FieldName">VatLieu</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">colChuY</property>
+      <property name="FieldName">ChuY</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">colTenKhachHang</property>
+      <property name="FieldName">TenKhachHang</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">colTenSanPham</property>
+      <property name="FieldName">TenSanPham</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">colKichThuoc</property>
+      <property name="FieldName">KichThuoc</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">colHinhMatPhai</property>
+      <property name="FieldName">HinhMatPhai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">colHinhMatTrai</property>
+      <property name="FieldName">HinhMatTrai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">colMauMatPhai</property>
+      <property name="FieldName">MauMatPhai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">14</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">colMauMatTrai</property>
+      <property name="FieldName">MauMatTrai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">15</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Name">colPhuongPhapIn</property>
+      <property name="FieldName">PhuongPhapIn</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">16</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Name">colGiaCongMatPhai</property>
+      <property name="FieldName">GiaCongMatPhai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">17</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Name">colGiaCongMatTrai</property>
+      <property name="FieldName">GiaCongMatTrai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">18</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Name">colPhuongPhapCat</property>
+      <property name="FieldName">PhuongPhapCat</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">19</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Name">colBoGoc</property>
+      <property name="FieldName">BoGoc</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">20</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Name">colDucLo</property>
+      <property name="FieldName">DucLo</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">21</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Name">colBTPSoLuongTonKho</property>
+      <property name="FieldName">BTPSoLuongTonKho</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">22</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Name">colTPSoLuongTonKho</property>
+      <property name="FieldName">TPSoLuongTonKho</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">23</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Name">colNhanVienNghiepVu</property>
+      <property name="FieldName">NhanVienNghiepVu</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">24</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Name">colDonGiaSanPham</property>
+      <property name="FieldName">DonGiaSanPham</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">25</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Name">colDonGiaKhuon</property>
+      <property name="FieldName">DonGiaKhuon</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">26</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="Name">colDonGiaMau</property>
+      <property name="FieldName">DonGiaMau</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">27</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="Name">colDonGiaVanChuyen</property>
+      <property name="FieldName">DonGiaVanChuyen</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">28</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="Name">colTongTien</property>
+      <property name="FieldName">TongTien</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">29</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Name">colNgoaiTe</property>
+      <property name="FieldName">NgoaiTe</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">30</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="Name">colBoPhan</property>
+      <property name="FieldName">BoPhan</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">31</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="Name">colChamCatDapHop</property>
+      <property name="FieldName">ChamCatDapHop</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">32</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="Name">colKhac</property>
+      <property name="FieldName">Khac</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">33</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="Name">colLoaiChi</property>
+      <property name="FieldName">LoaiChi</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">34</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="Name">colDoDai</property>
+      <property name="FieldName">DoDai</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">35</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="Name">colGiaCongSau</property>
+      <property name="FieldName">GiaCongSau</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">36</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="Name">colKho</property>
+      <property name="FieldName">Kho</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">37</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="Name">colInChu_MaVach</property>
+      <property name="FieldName">InChu_MaVach</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">38</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="Name">colHinhKhuon</property>
+      <property name="FieldName">HinhKhuon</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">39</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="Name">colThoiGianXuongDon</property>
+      <property name="FieldName">ThoiGianXuongDon</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">40</property>
+      <property name="Visible">true</property>
+    </property>
+  </property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gridView1</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

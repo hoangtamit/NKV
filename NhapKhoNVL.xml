@@ -1,0 +1,176 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="MultiSelectMode">CheckBoxRowSelect</property>
+    <property name="MultiSelect">true</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="ShowFooter">true</property>
+  </property>
+  <property name="OptionsFind" isnull="true" iskey="true">
+    <property name="AlwaysVisible">true</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="Columns" iskey="true" value="14">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colIDKhoNVL</property>
+      <property name="FieldName">IDKhoNVL</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">colNhapXuat</property>
+      <property name="OptionsFilter" isnull="true" iskey="true">
+        <property name="AutoFilterCondition">Equals</property>
+      </property>
+      <property name="FieldName">NhapXuat</property>
+      <property name="ColumnEditName" />
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">colKho</property>
+      <property name="FieldName">Kho</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colNgay</property>
+      <property name="Caption">NGÀY</property>
+      <property name="FieldName">Ngay</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">colLoaiHang</property>
+      <property name="Caption">LOẠI HÀNG HÓA</property>
+      <property name="FieldName">LoaiHang</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">colMaHang</property>
+      <property name="Caption">MÃ HÀNG</property>
+      <property name="FieldName">MaHang</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">colMaAD</property>
+      <property name="Caption">MÃ AVERY</property>
+      <property name="FieldName">MaAD</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">colTenHangHoa</property>
+      <property name="Caption">TÊN HÀNG HÓA</property>
+      <property name="FieldName">TenHangHoa</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">colSoLuongNhap</property>
+      <property name="Caption">SỐ LƯỢNG NHẬP</property>
+      <property name="FieldName">SoLuongNhap</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,0.###}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SoLuongNhap</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">TỔNG = {0:#,0.###}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">colDonViTinh</property>
+      <property name="Caption">ĐƠN VỊ TÍNH</property>
+      <property name="FieldName">DonViTinh</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">colQuyCach</property>
+      <property name="Caption">QUY CÁCH</property>
+      <property name="FieldName">QuyCach</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">colNhaCungCap</property>
+      <property name="Caption">NHÀ CUNG CẤP</property>
+      <property name="FieldName">NhaCungCap</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">colNguoiQuanKho</property>
+      <property name="Caption">NGƯỜI QUẢN KHO</property>
+      <property name="FieldName">NguoiQuanKho</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">colGhiChu</property>
+      <property name="Caption">GHI CHÚ</property>
+      <property name="FieldName">GhiChu</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+    </property>
+  </property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gridView1</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString">[NhapXuat] = 'Nhập'</property>
+  <property name="MRUFilters">~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxNy4xLCBWZXJzaW9uPTE3LjEuMy4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADZEZXZFeHByZXNzLlh0cmFHcmlkLlZpZXdzLkJhc2UuTVJVVmlld0ZpbHRlckNvbGxlY3Rpb24BAAAAE0NvbGxlY3Rpb25CYXNlK2xpc3QDHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QCAAAACQMAAAAEAwAAABxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24FAAAICAkEAAAAAQAAAAMAAAAQBAAAAAQAAAAJBQAAAA0DDAYAAABZRGV2RXhwcmVzcy5EYXRhLnYxNy4xLCBWZXJzaW9uPTE3LjEuMy4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFBQAAAClEZXZFeHByZXNzLlh0cmFHcmlkLlZpZXdzLkJhc2UuVmlld0ZpbHRlcgIAAAAYZk5vbkNvbHVtbkZpbHRlckNyaXRlcmlhE0NvbGxlY3Rpb25CYXNlK2xpc3QEAypEZXZFeHByZXNzLkRhdGEuRmlsdGVyaW5nLkNyaXRlcmlhT3BlcmF0b3IGAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QCAAAACgkHAAAAAQcAAAADAAAACQgAAAABAAAAAwAAABAIAAAABAAAAAkJAAAADQMMCgAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxNy4xBQkAAAAzRGV2RXhwcmVzcy5YdHJhR3JpZC5WaWV3cy5CYXNlLlZpZXdDb2x1bW5GaWx0ZXJJbmZvAgAAAAZGaWx0ZXIGQ29sdW1uBAEsRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkNvbHVtbkZpbHRlckluZm8KAAAACgAAAAkLAAAABgwAAAALY29sTmhhcFh1YXQFCwAAACxEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuQ29sdW1uRmlsdGVySW5mbwUAAAAEVHlwZQRLaW5kC0Rpc3BsYXlUZXh0DEZpbHRlclN0cmluZwVWYWx1ZQAAAQECCAgKAAAAAQAAAAEAAAAGDQAAAAAGDgAAABVbTmhhcFh1YXRdID0gJ05o4bqtcCcKCw==</property>
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

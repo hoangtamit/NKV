@@ -1,0 +1,674 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="Columns" iskey="true" value="34">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSCD</property>
+      <property name="FieldName">SCD</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colMaDonHang</property>
+      <property name="FieldName">MaDonHang</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colNgayXuongDon</property>
+      <property name="FieldName">NgayXuongDon</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colNgayGiaoHang</property>
+      <property name="FieldName">NgayGiaoHang</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSoLuong</property>
+      <property name="FieldName">SoLuong</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTenKhachHang</property>
+      <property name="FieldName">TenKhachHang</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTenSanPham</property>
+      <property name="FieldName">TenSanPham</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKichThuoc</property>
+      <property name="FieldName">KichThuoc</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBoPhan</property>
+      <property name="FieldName">BoPhan</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colNghiepVu_XuongDon</property>
+      <property name="FieldName">NghiepVu_XuongDon</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colThietKeNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">ThietKeNhan</property>
+      <property name="ColumnEditName">thietkenhancheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colThietKeHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">ThietKeHoanThanh</property>
+      <property name="ColumnEditName">thietkehtcheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colCtpNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">CtpNhan</property>
+      <property name="ColumnEditName">CtpNhanCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">13</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colCtpHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">CtpHoanThanh</property>
+      <property name="ColumnEditName">CtpHoanthanhCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="VisibleIndex">14</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOffsetNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">OffsetNhan</property>
+      <property name="ColumnEditName">OffsetNhanCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="VisibleIndex">15</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOffsetHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">OffsetHoanThanh</property>
+      <property name="ColumnEditName">OffsetHoanthanhCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="VisibleIndex">16</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTemVaiNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">TemVaiNhan</property>
+      <property name="ColumnEditName">TemvaiNhanCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">17</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTemVaiHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">TemVaiHoanThanh</property>
+      <property name="ColumnEditName">TemvaiHoanthanhCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="VisibleIndex">18</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDanhThiepNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">DanhThiepNhan</property>
+      <property name="ColumnEditName">DanhthiepNhanCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="VisibleIndex">19</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDanhThiepHoanThanh</property>
+      <property name="Caption">Hoàn Thành</property>
+      <property name="FieldName">DanhThiepHoanThanh</property>
+      <property name="ColumnEditName">DanhthiepHoanthanhCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="VisibleIndex">20</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKyThuatSoNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">KyThuatSoNhan</property>
+      <property name="ColumnEditName">KtsNhanCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="VisibleIndex">21</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKyThuatSoHoanThanh</property>
+      <property name="FieldName">KyThuatSoHoanThanh</property>
+      <property name="ColumnEditName">KtsHoanthanhCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="VisibleIndex">22</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colStickerNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">StickerNhan</property>
+      <property name="ColumnEditName">StickerNhanCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="VisibleIndex">23</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colStickerHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">StickerHoanThanh</property>
+      <property name="ColumnEditName">StickerHoanthanhCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="VisibleIndex">26</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSauInNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">SauInNhan</property>
+      <property name="ColumnEditName">SauinNhanCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="VisibleIndex">27</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSauInHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">SauInHoanThanh</property>
+      <property name="ColumnEditName">SauinHoanthanhCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="VisibleIndex">24</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInChuNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">InChuNhan</property>
+      <property name="ColumnEditName">InchuNhanCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="VisibleIndex">25</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInChuHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">InChuHoanThanh</property>
+      <property name="ColumnEditName">InchuHoanThanhCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="VisibleIndex">28</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKiemPhamNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">KiemPhamNhan</property>
+      <property name="ColumnEditName">KiemphamNhanCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="VisibleIndex">29</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKiemPhamHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">KiemPhamHoanThanh</property>
+      <property name="ColumnEditName">KiemphamHoanthanhCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="VisibleIndex">30</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKhoBTPNhan</property>
+      <property name="Caption">Nhận</property>
+      <property name="FieldName">KhoBTPNhan</property>
+      <property name="ColumnEditName">KhoNhanCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="VisibleIndex">31</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colKhoBTPHoanThanh</property>
+      <property name="Caption">Xong</property>
+      <property name="FieldName">KhoBTPHoanThanh</property>
+      <property name="ColumnEditName">KhoHoanthanhCheck</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">LightSkyBlue</property>
+      </property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="VisibleIndex">32</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colHoanThanh</property>
+      <property name="Caption">Hoàn Thành</property>
+      <property name="FieldName">HoanThanh</property>
+      <property name="ColumnEditName">SanxuatHoanThanhCheck</property>
+      <property name="Visible">true</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="VisibleIndex">33</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colGhiChu</property>
+      <property name="FieldName">GhiChu</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+    </property>
+  </property>
+  <property name="MinBandPanelRowCount">1</property>
+  <property name="BandPanelRowHeight">-1</property>
+  <property name="OptionsDetail" isnull="true" iskey="true">
+    <property name="DetailMode">Default</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">bandedGridView1</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="Bands" iskey="true" value="13">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="ImageAlignment">Center</property>
+      <property name="Width">750</property>
+      <property name="Columns" iskey="true" value="10">
+        <property name="Item1">colSCD</property>
+        <property name="Item2">colMaDonHang</property>
+        <property name="Item3">colNgayXuongDon</property>
+        <property name="Item4">colNgayGiaoHang</property>
+        <property name="Item5">colSoLuong</property>
+        <property name="Item6">colTenKhachHang</property>
+        <property name="Item7">colTenSanPham</property>
+        <property name="Item8">colKichThuoc</property>
+        <property name="Item9">colBoPhan</property>
+        <property name="Item10">colNghiepVu_XuongDon</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">THÔNG TIN ĐƠN HÀNG</property>
+      <property name="Name">THONGTINDONHANG</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colThietKeNhan</property>
+        <property name="Item2">colThietKeHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">THIẾT KẾ</property>
+      <property name="Name">gridBand2</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colCtpNhan</property>
+        <property name="Item2">colCtpHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">CTP</property>
+      <property name="Name">gridBand3</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colOffsetNhan</property>
+        <property name="Item2">colOffsetHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">OFFSET</property>
+      <property name="Name">gridBand4</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colTemVaiNhan</property>
+        <property name="Item2">colTemVaiHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">TEM VẢI</property>
+      <property name="Name">gridBand7</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colDanhThiepNhan</property>
+        <property name="Item2">colDanhThiepHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">DANH THIẾP</property>
+      <property name="Name">gridBand9</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colKyThuatSoNhan</property>
+        <property name="Item2">colKyThuatSoHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">KỸ THUẬT SỐ</property>
+      <property name="Name">gridBand5</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colStickerNhan</property>
+        <property name="Item2">colStickerHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">STICKER</property>
+      <property name="Name">gridBand6</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colInChuNhan</property>
+        <property name="Item2">colInChuHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">IN CHỮ VI TÍNH</property>
+      <property name="Name">gridBand8</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colSauInNhan</property>
+        <property name="Item2">colSauInHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">SAU IN</property>
+      <property name="Name">gridBand11</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colKiemPhamNhan</property>
+        <property name="Item2">colKiemPhamHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">KIỂM PHẨM</property>
+      <property name="Name">gridBand10</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="FontStyleDelta">Bold</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colKhoBTPNhan</property>
+        <property name="Item2">colKhoBTPHoanThanh</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">KHO BTP - TP</property>
+      <property name="Name">gridBand12</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Width">150</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colHoanThanh</property>
+        <property name="Item2">colGhiChu</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand13</property>
+      <property name="Name">gridBand13</property>
+    </property>
+  </property>
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

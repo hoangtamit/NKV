@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DonHangTemVaiAvery">
+  <DataContextMoniker Name="/DonHangTemVaiAveryDataContext" />
+  <nestedChildShapes>
+    <classShape Id="09b67dea-d3e3-481d-8639-0cc08b706000" absoluteBounds="1.5, 1.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DonHangTemVaiAveryDataContext/tbDonHangTemVaiAvery" />
+      <nestedChildShapes>
+        <elementListCompartment Id="52a042c6-ca3b-4600-9ad4-4853377351f1" absoluteBounds="1.5150000000000001, 1.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
